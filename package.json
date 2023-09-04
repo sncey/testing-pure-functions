@@ -1,0 +1,28 @@
+{
+  "name": "curriculum-backend-testing-pure-functions",
+  "version": "1.0.0",
+  "description": "Testing Pure Functions",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/app.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReCoded-Org/curriculum-backend-testing-pure-functions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ReCoded-Org/curriculum-backend-testing-pure-functions/issues"
+  },
+  "homepage": "https://github.com/ReCoded-Org/curriculum-backend-testing-pure-functions#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "jest": "^27.3.1",
+    "nodemon": "^2.0.15"
+  }
+}
